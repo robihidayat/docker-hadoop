@@ -2,7 +2,7 @@
 #
 # docker build -t sequenceiq/hadoop-ubuntu:2.6.0 .
 
-FROM ubuntu-14
+FROM robihidayat/ubuntu-14
 MAINTAINER robihidayat
 
 USER root
